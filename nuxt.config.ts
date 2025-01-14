@@ -15,7 +15,6 @@ export default defineNuxtConfig({
     kv: true,
     blob: true,
     cache: true,
-    browser: true,
   },
   nitro: {
     experimental: {
