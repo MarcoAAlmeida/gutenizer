@@ -13,11 +13,9 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@cloudflare/puppeteer": "^0.0.14",
     "@nuxt/eslint": "^0.7.4",
     "@nuxthub/core": "^0.8.10",
-    "nuxt": "^3.14.1592",
-    "puppeteer": "^24.0.0"
+    "nuxt": "^3.14.1592"
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.7.4",
