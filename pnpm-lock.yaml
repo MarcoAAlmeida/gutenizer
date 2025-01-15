@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@cloudflare/puppeteer':
-        specifier: ^0.0.14
-        version: 0.0.14(encoding@0.1.13)
       '@nuxt/eslint':
         specifier: ^0.7.4
         version: 0.7.4(@vue/compiler-sfc@3.5.13)(eslint@9.17.0(jiti@2.4.0))(magicast@0.3.5)(rollup@4.24.4)(typescript@5.5.2)(vite@5.4.11(@types/node@22.8.7)(terser@5.36.0))
@@ -20,9 +17,6 @@ importers:
       nuxt:
         specifier: ^3.14.1592
         version: 3.14.1592(@parcel/watcher@2.5.0)(@types/node@22.8.7)(encoding@0.1.13)(eslint@9.17.0(jiti@2.4.0))(ioredis@5.4.1)(magicast@0.3.5)(optionator@0.9.4)(rollup@4.24.4)(terser@5.36.0)(typescript@5.5.2)(vite@5.4.11(@types/node@22.8.7)(terser@5.36.0))(vue-tsc@2.1.10(typescript@5.5.2))
-      puppeteer:
-        specifier: ^24.0.0
-        version: 24.0.0(typescript@5.5.2)
     devDependencies:
       '@nuxt/eslint-config':
         specifier: ^0.7.4
